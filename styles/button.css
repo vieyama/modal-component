@@ -1,0 +1,30 @@
+.btn {
+  background: #5fc2ff;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: #5fc2ff;
+}
+
+.btn-primary:hover {
+  background: #fff;
+  color: #5fc2ff;
+  border: 1px solid #5fc2ff;
+}
+
+.btn-default {
+  background: #ffffff;
+  color: black;
+  border: 1px solid black;
+}
+
+.btn-default:hover {
+  background: #5fc2ff;
+  border: 1px solid white;
+  color: white;
+}

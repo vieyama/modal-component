@@ -14,3 +14,6 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@import url("./button.css");
+@import url("./modal.css");
